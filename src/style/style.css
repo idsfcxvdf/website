@@ -1,0 +1,14 @@
+@import "./global.css";
+@import "./variable.css";
+@import "./animation.css";
+@import "./block/major-header.css";
+@import "./block/nav.css";
+@import "./block/major-main.css";
+@import "./block/preview.css";
+@import "./block/about.css";
+@import "./block/work.css";
+@import "./block/gallary.css";
+@import "./block/major-modal.css";
+@import "./block/contact.css";
+@import "./block/form.css";
+@import "./block/major-footer.css";

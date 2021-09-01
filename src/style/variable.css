@@ -1,0 +1,24 @@
+:root {
+  /* color */
+  --bg-standard: rgba(217, 217, 217, 1);
+  --bg-header: rgba(29, 29, 29, 1);
+  --bg-header-burger: rgba(29, 29, 29, 1);
+  --bg-header-line: rgba(239, 239, 239, 1);
+  --bg-header-link: rgba(29, 29, 29, 1);
+  --bg-nav-link: rgba(29, 29, 29, 1);
+  --bg-section: rgba(42, 42, 42, 1);
+  --bg-view: rgba(225, 225, 225, 1);
+  --bg-modal: rgba(0, 0, 0, 0.5);
+  --bg-modal-wrapper: rgba(217, 217, 217, 1);
+  --bg-modal-link: rgba(29, 29, 29, 1);
+  --bg-modal-button: rgba(0, 0, 0, 0.5);
+  --bg-footer: rgba(25, 25, 25, 1);
+  --bg-contact-submit: rgba(42, 42, 42, 1);
+  --bg-contact-item: rgba(20, 20, 20, 0.6);
+  --bg-contact-submit-hover: rgba(20, 20, 20, 0.6);
+  --text-standard: rgba(245, 245, 245, 1);
+  --text-special: rgba(197, 197, 197, 1);
+  --text-alternative: rgba(14, 14, 14, 1);
+  --border-nav-link: rgba(53, 53, 53, 1);
+  --border-contact-submit: rgba(217, 217, 217, 1);
+}

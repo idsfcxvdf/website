@@ -1,0 +1,12 @@
+.major-main {
+  display: flex;
+  flex-direction: column;
+  margin-top: 60px;
+}
+
+@media (min-width: 768px) {
+  .major-main {
+    margin-top: 0;
+    margin-left: 150px;
+  }
+}
